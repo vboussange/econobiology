@@ -1,0 +1,47 @@
+Nb of countries for group_size = 11 :(81,)
+Nb of countries for group_size = 13 :(1,)
+Nb of countries for group_size = 15 :(1,)
+Nb of countries for group_size = 16 :(79,)
+countrySYR with group size 16 rejected because of R2 of log model negative
+Nb of countries for group_size = 21 :(79,)
+countrySYR with group size 21 rejected because of R2 of log model negative
+Nb of countries for group_size = 22 :(1,)
+Nb of countries for group_size = 28 :(2,)
+Nb of countries for group_size = 29 :(8,)
+Nb of countries for group_size = 34 :(2,)
+Nb of countries for group_size = 36 :(1,)
+Nb of countries for group_size = 41 :(65,)
+countrySYR with group size 41 rejected because of R2 of log model negative
+median std loss for group size init 11 : 1.4599664514424955e-6
+mean std loss for group size init 11 : 0.007743095508130353
+std std loss for group size init 11 : 0.02806369738913593
+median std loss for group size init 13 : 0.021736818263253174
+mean std loss for group size init 13 : 0.020253389827716177
+std std loss for group size init 13 : 0.00796326811101165
+median std loss for group size init 15 : 0.010679079413592509
+mean std loss for group size init 15 : 0.11786842472344469
+std std loss for group size init 15 : 0.18936263713902365
+median std loss for group size init 16 : 3.03806067844278e-6
+mean std loss for group size init 16 : 0.009614402017348988
+std std loss for group size init 16 : 0.04044970324032258
+median std loss for group size init 21 : 2.2407418095603956e-5
+mean std loss for group size init 21 : 0.013883054192442582
+std std loss for group size init 21 : 0.044825922725817355
+median std loss for group size init 22 : 0.09444594533686264
+mean std loss for group size init 22 : 0.1083193897517724
+std std loss for group size init 22 : 0.030805889505350598
+median std loss for group size init 28 : 0.017840611290427133
+mean std loss for group size init 28 : 0.02913896281151518
+std std loss for group size init 28 : 0.03601134695455153
+median std loss for group size init 29 : 2.0637203724786118e-5
+mean std loss for group size init 29 : 0.0035245197059156795
+std std loss for group size init 29 : 0.015094971829926265
+median std loss for group size init 34 : 0.015854978811087016
+mean std loss for group size init 34 : 0.03323244307154846
+std std loss for group size init 34 : 0.04061943901160881
+median std loss for group size init 36 : 2.9492405745589076e-6
+mean std loss for group size init 36 : 3.5320209174172702e-6
+std std loss for group size init 36 : 2.3900280067109225e-6
+median std loss for group size init 41 : 0.00010666729786376886
+mean std loss for group size init 41 : 0.025714250995752284
+std std loss for group size init 41 : 0.07649947211801825

@@ -1,0 +1,21 @@
+name = "Econobio"
+uuid = "61ecd027-d2b0-4174-b2f9-2f4a374443b1"
+authors = ["Victor <bvictor@ethz.ch>"]
+version = "0.1.0"
+
+[deps]
+Bijectors = "76274a88-744f-5084-9051-94815aaf08c4"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+InlineStrings = "842dd82b-1e85-43dc-bf29-5d0ee9dffc48"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
+SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"

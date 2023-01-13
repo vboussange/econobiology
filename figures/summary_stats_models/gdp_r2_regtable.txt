@@ -1,0 +1,15 @@
+\begin{tabular}{lr}
+\toprule
+                    & \multicolumn{1}{c}{R2} \\ 
+\cmidrule(lr){2-2} 
+(Intercept)         &               0.916*** \\ 
+                    &                (0.031) \\ 
+N                   &                  0.001 \\ 
+                    &                (0.005) \\ 
+log(GDP)            &                0.042** \\ 
+                    &                (0.012) \\ 
+\midrule
+Number of countries &                     69 \\ 
+$R^2$               &                  0.335 \\ 
+\bottomrule
+\end{tabular}

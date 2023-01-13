@@ -1,0 +1,17 @@
+\begin{tabular}{lrr}
+\toprule
+                    & \multicolumn{1}{c}{Loglikelihood} & \multicolumn{1}{c}{Loglikelihood residuals} \\ 
+\cmidrule(lr){2-2} \cmidrule(lr){3-3} 
+(Intercept)         &                             0.000 &                                    1.869*** \\ 
+                    &                           (0.051) &                                     (0.477) \\ 
+ndatapoints         &                          0.915*** &                                             \\ 
+                    &                           (0.052) &                                             \\ 
+N                   &                                   &                                   -0.288*** \\ 
+                    &                                   &                                     (0.071) \\ 
+log_gdp             &                                   &                                    0.834*** \\ 
+                    &                                   &                                     (0.189) \\ 
+\midrule
+Number of countries &                                63 &                                          63 \\ 
+$R^2$               &                             0.837 &                                       0.251 \\ 
+\bottomrule
+\end{tabular}
