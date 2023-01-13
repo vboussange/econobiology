@@ -1,13 +1,12 @@
 # Econobiology
-Source code for the paper "Analogous processes to ecological interactions and dispersal shape the dynamics of economic activities" by Boussange, V., Sornette, D., Lischke, H., Pellissier, L.
-
 
 This repository contains the code used for the paper 
 
 > *Processes analogous to ecological interactions and dispersal shape the dynamics of economic activities*, Boussange, V., Sornette, D., Lischke, H., Pellissier, L. (2023).
 
+More specifically:
 - `MiniBatchInference.jl/` contains the source code for the inference utilities. It corresponds to a legacy version of [PiecewiseInference.jl](https://github.com/vboussange/PiecewiseInference.jl).
-- `Econobio.jl/` contains generic utility functions to pre- and post-process data, and implements the dynamic community models.
+- `Econobio.jl/` contains generic utility functions to pre- and post-process input data, and implements the dynamic community models.
 - `code/` contains all scripts related to the specific simulation runs
 - `figure/` contains all scripts to generate the manuscript figures and crunch the raw simulation results.
 
